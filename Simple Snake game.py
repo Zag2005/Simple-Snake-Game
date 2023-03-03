@@ -5,7 +5,7 @@ import random
 
 GAME_WIDTH = 500
 GAME_HEIGHT = 500
-SPEED = 300
+SPEED = 300 #change it tho
 SPACE_SIZE = 50
 BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
